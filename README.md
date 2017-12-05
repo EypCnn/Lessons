@@ -10,7 +10,7 @@
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="231dp"
         tools:ignore="MissingConstraints" />
-<!--android:duration="4000" is the duration till the gradient will be shown on the screen-->
+
 ```
 ## MainActivity.java
 
