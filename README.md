@@ -1,7 +1,7 @@
 # Share Button
 
 *activity_main.xml
-
+```xml
 <Button
         android:id="@+id/paylas"
         android:layout_width="wrap_content"
@@ -13,7 +13,7 @@
 		
 
 *MainActivity.java
-
+```xml
 Button eyp;
 
 eyp=(Button)findViewById(R.id.paylas);
