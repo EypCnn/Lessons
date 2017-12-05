@@ -1,7 +1,7 @@
 # Share Button
 
-*activity_main.xml
-
+## activity_main.xml
+```xml
 <Button
         android:id="@+id/paylas"
         android:layout_width="wrap_content"
@@ -10,10 +10,11 @@
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="231dp"
         tools:ignore="MissingConstraints" />
-		
 
-*MainActivity.java
+```
+## MainActivity.java
 
+```xml
 Button eyp;
 
 eyp=(Button)findViewById(R.id.paylas);
@@ -29,3 +30,5 @@ eyp=(Button)findViewById(R.id.paylas);
                 startActivity(Intent.createChooser(myIntent, "Şununla Paylaş"));
             }
         });		
+
+```
