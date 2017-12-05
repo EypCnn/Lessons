@@ -1,6 +1,6 @@
 # Share Button
 
-##activity_main.xml
+## activity_main.xml
 ```xml
 <Button
         android:id="@+id/paylas"
@@ -10,10 +10,9 @@
         tools:layout_editor_absoluteX="148dp"
         tools:layout_editor_absoluteY="231dp"
         tools:ignore="MissingConstraints" />
-
-		```
-
-##MainActivity.java
+<!--android:duration="4000" is the duration till the gradient will be shown on the screen-->
+```
+## MainActivity.java
 
 ```xml
 Button eyp;
