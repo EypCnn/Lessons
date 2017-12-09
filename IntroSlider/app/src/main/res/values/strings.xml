@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GirisKaydırıcı</string>
+    <string name="title_activity_welcome">Home Page</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+
+    <string name="slide_1_title">Small Size</string>
+    <string name="slide_1_desc">All social media is in this application and the size is smaller than all!</string>
+
+    <string name="slide_2_title">All Social Media</string>
+    <string name="slide_2_desc">All the sites you can use in social media!</string>
+
+    <string name="slide_3_title">Safe</string>
+    <string name="slide_3_desc">Your actions will remain confidential only to you!</string>
+
+    <string name="slide_4_title">Fast</string>
+    <string name="slide_4_desc">In spite of all the social media, the use of trouble-free!</string>
+</resources>
