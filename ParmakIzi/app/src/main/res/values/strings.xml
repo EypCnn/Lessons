@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parmak Izı Dogrulama</string>
+    <string name="anasayfabilgi">Tek Dokunuş İle Giriş</string>
+    <string name="uyari">Kimliğinizi doğrulamak için lütfen parmak izinizi okutunuz.</string>
+    <string name="not">(Parmak izi girişi uygulamanızın girişini çok daha hızlı yapar. Cihazınızın cihaz ayarlarında en az bir parmak izi kayıtlı olmalıdır)</string>
+    <string name="anasayfabaslik">Parmak İzi</string>
+    <string name="anasayfaolumlu">Parmak izi doğrulaması başarılı.</string>
+    <string name="anasayfaolumsuz">Tekrar denemek için uygulamayı kapatıp tekrar açınız.</string>
+    <string name="title_activity_ana_sayfa">AnaSayfa</string>
+</resources>
