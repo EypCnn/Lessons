@@ -7,6 +7,8 @@
 <p><a href="https://youtu.be/a-RKPBZDJwM">Exit Dialog</a></p>
 <p><a href="https://youtu.be/iWRXMzr1EJw">Full Scren Alert Dialog</a></p>
 <p><a href="https://youtu.be/RqHHAKehwrs">Night Mode</a></p>
+<p><a href="https://youtu.be/9W_3-ESJw-I">In-App Settings Panel</a></p>
+<p><a href="https://youtu.be/AtJTbMFHY0s">In-App Settings Panel Kotlin</a></p>
 <p><a href="https://youtu.be/UPhuh7HvdgU">GradientBackground</a></p>
 <p><a href="https://www.youtube.com/watch?v=SsiimzYqoTg">Intro Slider</a></p>
 <p><a href="https://www.youtube.com/watch?v=clKRvYJ4xIg">Snowfall</a></p>
