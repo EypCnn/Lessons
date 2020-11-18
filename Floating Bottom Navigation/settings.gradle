@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Floating Bottom Bar"
